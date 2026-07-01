@@ -1,2 +1,2 @@
 # delta
-git &amp;github learn
+git &amp;github learn.
